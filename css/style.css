@@ -1,0 +1,39 @@
+body{background: url(./img/bg_top_2.png) repeat-x 0 0 transparent; margin:0; padding:0; text-align:center;}
+
+#tudo {width: 760px; margin:0 auto; padding: 10px; text-align:left;}
+#conteudo {padding: 5px; background-color: #eee;}
+
+/*url(./img/logo_rottaely.jpg) no-repeat 0 0 transparent} */
+
+/*
+
+body {
+margin:0;
+padding:0;
+background:#ccc;
+text-align:center; /* hack para o IE /	
+	}
+#tudo {
+width: 760px;
+margin:0 auto;			
+padding: 10px;
+text-align:left; /* "remédio" para o hack do IE /	
+	}
+#conteudo {
+padding: 5px;
+background-color: #eee;
+	}
+</style>
+</head>
+<body>
+<div id="tudo">
+<div id="conteudo">
+    <h1>Pagina Centrada com CSS sem scroll ate 800x600</h1>
+    <p> Não use nenhum elemento HTML 
+(figuras, tabelas, etc...) com largura 
+      superior a 750px.</p>
+</div>
+</div>
+</body>
+</html>
+*/
